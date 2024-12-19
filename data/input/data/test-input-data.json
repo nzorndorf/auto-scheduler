@@ -1,0 +1,229 @@
+{
+    "job_ids": [
+        "job_1",
+        "job_2",
+        "job_3",
+        "job_4",
+        "job_5",
+        "job_6",
+        "job_7",
+        "job_8",
+        "job_9",
+        "job_10",
+        "job_11",
+        "job_12",
+        "job_13",
+        "job_14",
+        "job_15",
+        "job_16",
+        "job_17",
+        "job_18",
+        "job_19",
+        "job_20",
+        "job_21",
+        "job_22",
+        "job_23",
+        "job_24",
+        "job_25"
+    ],
+    "resource_ids": [
+        "res_1",
+        "res_2",
+        "res_3",
+        "res_4",
+        "res_5"
+    ],
+    "date_range": {
+        "start_date": "2024-06-01",
+        "end_date": "2024-06-05"
+    },
+    "resources": [
+        {
+            "id": "res_1",
+            "skills": [
+                "electric",
+                "inspection"
+            ]
+        },
+        {
+            "id": "res_2",
+            "skills": [
+                "repair",
+                "installation"
+            ]
+        },
+        {
+            "id": "res_3",
+            "skills": [
+                "electric",
+                "repair"
+            ]
+        },
+        {
+            "id": "res_4",
+            "skills": [
+                "inspection",
+                "maintenance"
+            ]
+        },
+        {
+            "id": "res_5",
+            "skills": [
+                "installation",
+                "survey"
+            ]
+        }
+    ],
+    "jobs": [
+        {
+            "id": "job_1",
+            "required_skills": [
+                "survey"
+            ]
+        },
+        {
+            "id": "job_2",
+            "required_skills": [
+                "electric"
+            ]
+        },
+        {
+            "id": "job_3",
+            "required_skills": [
+                "electric"
+            ]
+        },
+        {
+            "id": "job_4",
+            "required_skills": [
+                "survey"
+            ]
+        },
+        {
+            "id": "job_5",
+            "required_skills": [
+                "inspection"
+            ]
+        },
+        {
+            "id": "job_6",
+            "required_skills": [
+                "repair"
+            ]
+        },
+        {
+            "id": "job_7",
+            "required_skills": [
+                "repair"
+            ]
+        },
+        {
+            "id": "job_8",
+            "required_skills": [
+                "repair"
+            ]
+        },
+        {
+            "id": "job_9",
+            "required_skills": [
+                "survey"
+            ]
+        },
+        {
+            "id": "job_10",
+            "required_skills": [
+                "electric"
+            ]
+        },
+        {
+            "id": "job_11",
+            "required_skills": [
+                "survey"
+            ]
+        },
+        {
+            "id": "job_12",
+            "required_skills": [
+                "survey"
+            ]
+        },
+        {
+            "id": "job_13",
+            "required_skills": [
+                "maintenance"
+            ]
+        },
+        {
+            "id": "job_14",
+            "required_skills": [
+                "electric"
+            ]
+        },
+        {
+            "id": "job_15",
+            "required_skills": [
+                "maintenance"
+            ]
+        },
+        {
+            "id": "job_16",
+            "required_skills": [
+                "installation"
+            ]
+        },
+        {
+            "id": "job_17",
+            "required_skills": [
+                "electric"
+            ]
+        },
+        {
+            "id": "job_18",
+            "required_skills": [
+                "electric"
+            ]
+        },
+        {
+            "id": "job_19",
+            "required_skills": [
+                "electric"
+            ]
+        },
+        {
+            "id": "job_20",
+            "required_skills": [
+                "repair"
+            ]
+        },
+        {
+            "id": "job_21",
+            "required_skills": [
+                "repair"
+            ]
+        },
+        {
+            "id": "job_22",
+            "required_skills": [
+                "maintenance"
+            ]
+        },
+        {
+            "id": "job_23",
+            "required_skills": [
+                "maintenance"
+            ]
+        },
+        {
+            "id": "job_24",
+            "required_skills": [
+                "electric"
+            ]
+        },
+        {
+            "id": "job_25",
+            "required_skills": [
+                "maintenance"
+            ]
+        }
+    ]
+}
